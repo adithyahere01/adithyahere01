@@ -13,10 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/adithyahere/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adithyahere/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adithyahere/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adithyahere/" height="30" width="40" /></a>
  <a href="https://twitter.com/adithyahere_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/adithya" height="30" width="40" /></a>
-<a href="https://dev.to/https://dev.to/adithyahere" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/adithyahere" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/adithyahere_/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/adithyahere_/?hl=en" height="30" width="40" /></a>
+<a href="https://dev.to/adithyahere" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/adithyahere" height="30" width="40" /></a>
+<a href="https://instagram.com/adithyahere_/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/adithyahere_/?hl=en" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
