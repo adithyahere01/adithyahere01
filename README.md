@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adithya</h1>
 <h3 align="center">I'm a first-year engineering junior who loves trying out new things.</h3>
 
-- 🔭 I’m currently working on **personal portfolio**
+- 🔭 I’m currently working on **personal projects**
 
 - 🌱 I’m currently learning **React,Nodejs**
 
