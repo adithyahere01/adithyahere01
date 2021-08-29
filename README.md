@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Html, CSS, JS, React and front-end**
 
-- 📫 How to reach me **adithyahere01@gmail.com**
+- 📫 Reach out to me **adithyahere01@gmail.com**
 
 - ⚡ Fun fact: **My hobbies are breakfast, lunch and dinner and Coding inbetween! lol**
 
