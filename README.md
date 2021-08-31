@@ -2,7 +2,8 @@
 <h3 align="center">I'm a sophomore computer science engineering student who loves trying out new things.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-- 🔭 I’m currently working on **personal projects**
+
+- 💻 This is where I store my **codes**
 
 - 🌱 I’m currently learning **React,Nodejs**
 
