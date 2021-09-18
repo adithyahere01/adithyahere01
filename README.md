@@ -11,7 +11,7 @@
 
 - 📫 Reach out to me **adithyahere01@gmail.com**
 
-- ⚡ Fun fact: **My hobbies are breakfast, lunch and dinner and Coding inbetween! lol**
+- ⚡ Fun fact: **I love staring at my laptop**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
