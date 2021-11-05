@@ -40,3 +40,13 @@
  </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adithyahere01&show_icons=true&locale=en&layout=compact" alt="adithyahere01" /></p>
+
+📈 Stats
+
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=adithyahere01&show_icons=true&hide_border=true" alt="Adithya's GitHub Stats">
+</div>
+
+<!--<div>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=adithyahere01.adithyahere01" alt="visitors">
+</div>-->
