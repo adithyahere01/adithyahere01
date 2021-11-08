@@ -6,10 +6,10 @@
 - 🌱 I’m currently learning **Nodejs, PWAs**
 
 - 🎓 Pursuing Computer Science and Engineering
+<!--
+- 💬 Ask me about **Html, CSS, JS, React and front-end**-->
 
-- 💬 Ask me about **Html, CSS, JS, React and front-end**
-
-- 📫 Reach out to me **adithyahere01@gmail.com**
+- 📫 Connect here **adithyahere01@gmail.com**
 
 - ⚡ Fun fact: **I love staring at my laptop**
 
