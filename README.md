@@ -11,7 +11,7 @@
 
 - 📫 Connect here **adithyahere01@gmail.com**
 
-- ⚡ Fun fact: **I love staring at my laptop**
+- ⚡ Fun fact: **I love staring at my laptop XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
