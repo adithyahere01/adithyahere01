@@ -1,7 +1,8 @@
 <h1 align="left">Nice to meet you <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Adithya</h1>
 <!--<h3 align="center">I'm Adithya</h3>-->
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">-->
+<img src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="440" align='right'>
 
 - 🌱 I’m currently learning **Nodejs, PWAs**
 
@@ -17,8 +18,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/adithyahere/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Adithya.S adithyahere01" height="30" width="40" /></a> 
 <a href="https://twitter.com/adithyahere_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Adithya.S adithyahere01" height="30" width="40" /></a>
-<a href="https://dev.to/adithyahere" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/adithyahere" height="30" width="40" /></a>
-<a href="https://instagram.com/adithyahere_/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="adithyahere_" height="30" width="40" /></a>
+<!--<a href="https://dev.to/adithyahere" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/adithyahere" height="30" width="40" /></a>
+<!--<a href="https://instagram.com/adithyahere_/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="adithyahere_" height="30" width="40" /></a>-->
  
  
 <!--<a href="https://linkedin.com/in/adithyahere/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adithyahere/" height="30" width="40" /></a>
