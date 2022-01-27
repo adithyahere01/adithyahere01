@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 <!--<img src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="440" align='right'>-->
 
-- 🌱 I’m currently learning **Nodejs, PWAs**
+- 🌱 I’m currently learning **Nodejs, Miscellaneous react libraries**
 
 - 🎓 Pursuing Computer Science and Engineering
 <!--
