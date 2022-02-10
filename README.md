@@ -12,7 +12,7 @@
 
 - 📫 Connect here **adithyahere01@gmail.com**
 
-- ⚡ Fun fact: **I love staring at my laptop XD**
+- ⚡ **Building dots to connect them later🎊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
