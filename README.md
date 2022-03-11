@@ -7,9 +7,9 @@
 - 🌱 I’m currently learning **Nodejs, Miscellaneous react libraries**
 
 - 🎓 Pursuing Computer Science and Engineering
-
+<!--
 - 💬 Ask me about **Html, CSS, JS, React and front-end**
-
+-->
 - 📫 Connect here **adithyahere01@gmail.com**
 
 - ⚡ **Building dots to connect them later🎊**
