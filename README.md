@@ -14,10 +14,10 @@
 
 - ⚡ **Building dots to connect them later🎊**
 
-<h3 align="left">Connect with me:</h3>
+<!--<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adithyahere/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Adithya.S adithyahere01" height="30" width="40" /></a> 
-<a href="https://twitter.com/adithyahere_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Adithya.S adithyahere01" height="30" width="40" /></a>
+<a href="https://twitter.com/adithyahere_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Adithya.S adithyahere01" height="30" width="40" /></a>-->
 <!--<a href="https://dev.to/adithyahere" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/adithyahere" height="30" width="40" /></a>
 <!--<a href="https://instagram.com/adithyahere_/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="adithyahere_" height="30" width="40" /></a>-->
  
