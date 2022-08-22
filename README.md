@@ -1,7 +1,7 @@
 <h1 align="left">Nice to meet you <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> I'm Adithya</h1>
 <!--<h3 align="center">I'm Adithya</h3>-->
 
-<img align="right" alt="Coding" width="550" src="https://s4.gifyu.com/images/gif1e307d191adc83f9b.gif">
+<img align="right" alt="Coding" width="520" src="https://s4.gifyu.com/images/gif1e307d191adc83f9b.gif">
 <!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">-->
 <!--<img src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="440" align='right'>-->
 
